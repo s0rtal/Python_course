@@ -1,6 +1,6 @@
 #monte carlo pi approximation
 import random
-number_of_points = 100000
+number_of_points = 1000000
 number_of_points_in = 0
 radius = 10000000
 i = 0
